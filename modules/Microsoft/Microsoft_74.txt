@@ -1,0 +1,5 @@
+A year ago, the largest #AI models in the world had around 1 billion parameters. 
+
+Our Turing NLG (natural language generation) model, the largest in the world, has 17 billion. 🌎 
+
+This is AI at Scale. #MSBuild

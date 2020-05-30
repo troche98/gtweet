@@ -1,0 +1,1 @@
+@JYPETWIX Hi there. Try these steps to retrain the voice model (see "Teach the Google Assistant to recognize your voice" section): https://t.co/LtIvBu7JeW. Hope that helps.

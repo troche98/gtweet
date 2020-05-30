@@ -1,0 +1,1 @@
+@MrGerry Hi there. We have a fix in the works for the Facebook iOS App VoiceOver crash when scrolling the News Feed. Thank you for your patience as we work to resolve this issue. -AS

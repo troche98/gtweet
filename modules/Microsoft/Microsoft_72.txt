@@ -1,0 +1,1 @@
+We're also announcing that we’re bringing together the optimizations in DeepSpeed, as well as other libraries from Microsoft, to the popular ONNX runtime. #MSBuild https://t.co/UenIZ8SoLW

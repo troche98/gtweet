@@ -1,0 +1,1 @@
+@inztinkt Hi Hector. We recommend running your website through the Facebook Debugger. This tool helps to identify any errors that Facebook is reading from your website and provides information on what needs to be fixed to unblock your link: https://t.co/7D4BOsbLQd. -MS

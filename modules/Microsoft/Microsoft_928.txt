@@ -1,0 +1,3 @@
+"With Azure Arc, customers can manage resources deployed within Azure and outside of Azure through the same control plane."
+
+Read more: https://t.co/jM5rPB8f65 via @Forbes

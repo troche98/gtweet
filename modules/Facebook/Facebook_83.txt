@@ -1,0 +1,1 @@
+@blogger_shubh Hi Shubham. You would need to assign your personal profile to an admin role in your group before removing the Page, otherwise you will not be able to manage roles within your group any longer. You can learn more about linked groups here: https://t.co/dLW01tkLpZ. -AS

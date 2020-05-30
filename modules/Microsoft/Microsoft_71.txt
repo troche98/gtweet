@@ -1,0 +1,3 @@
+Our cloud-hosted supercomputer is one of the top 5️⃣ largest supercomputers in the world. And, because of the power of the cloud and @Azure, we were able to develop and deploy this in just 6 months. 
+
+#MSBuild

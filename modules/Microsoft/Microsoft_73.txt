@@ -1,0 +1,1 @@
+Today, at #MSBuild, we're happy to announce that we are open-sourcing the second version of DeepSpeed, which now enables you to train models up to 20 times bigger and 10 times faster. https://t.co/VSrMHR35V6

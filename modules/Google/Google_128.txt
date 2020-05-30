@@ -1,0 +1,1 @@
+@mikesum41fan Hi there. Try clearing the cache of the Google app to fix the Assistant: Go to device Settings &gt; Apps &gt; Google &gt; Storage &gt; Clear Cache. Let us know if that helps.

@@ -1,0 +1,3 @@
+To provide real-time support and prevent health systems from being overwhelmed, we’ve partnered with the CDC on a COVID-19 Self-Checker Bot service powered by Microsoft #Azure.
+
+Learn more: https://t.co/T1sPx9EBCE https://t.co/66dtelpQl9

@@ -1,0 +1,3 @@
+With Azure Synapse Analytics, you can manage #data from disparate places within a single service.
+
+Learn how: https://t.co/KZ7gAAptEU via @TechCrunch
